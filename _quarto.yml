@@ -1,10 +1,6 @@
 project:
   type: website
-<<<<<<< HEAD
   output-dir: docs 
-
-=======
->>>>>>> b726026872418ce758e5522feba70c9d5efeb5fa
 
 website:
   title: "portfolio"
