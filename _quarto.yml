@@ -11,6 +11,8 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: person
+        href: file:///C:/Users/brynn/Downloads/Brynn-Baumert-resume%20(4).pdf
 format:
   html:
     theme:
