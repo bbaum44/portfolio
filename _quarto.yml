@@ -12,7 +12,7 @@ website:
       - icon: twitter
         href: https://twitter.com
       - icon: person
-        href: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7c091298-fe54-480b-be09-fd0f23d7cd0c?x_api_client_id=edge_extension_viewer&x_api_client_location=share&locale=en-US&theme=light&page_theme=light
+        href: https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8122136b-42b8-4381-b74e-f70cab8aa325?x_api_client_id=edge_extension_viewer&x_api_client_location=share&locale=en-US&theme=light&page_theme=light&show_copied_toast=true
 format:
   html:
     theme:
